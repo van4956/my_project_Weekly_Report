@@ -8,3 +8,5 @@
 В работе использую инструменты Google Sheets, Google Date Studio.
 Дашборд состоит из трех страниц, СОН, ПИТАНИЕ, 
 Данные собираю раз в неделю
+  
+https://datastudio.google.com/reporting/0e6923dc-1256-496b-b760-2a73da3682be
