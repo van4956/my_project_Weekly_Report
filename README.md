@@ -36,7 +36,7 @@
  Для лучшей визуализации представлины три точечные гистограммы корреляции пульса со скоростью, каденсом и длинной шага.  
  
 <BR>  
----
+---  
   
 Ссылка на таблицы:  
 https://docs.google.com/spreadsheets/d/1On-vrOyN0avxJ4QdWPiVbKVIU16TntCrXoQpxnr4_fk/edit?usp=sharing
