@@ -38,8 +38,4 @@
   
 ---  
   
-Ссылка на таблицы:  
-https://docs.google.com/spreadsheets/d/1On-vrOyN0avxJ4QdWPiVbKVIU16TntCrXoQpxnr4_fk/edit?usp=sharing
 
-Ссылка на динамический отчет:  
-https://datastudio.google.com/reporting/0e6923dc-1256-496b-b760-2a73da3682be
